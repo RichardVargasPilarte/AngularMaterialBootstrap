@@ -1,6 +1,12 @@
 # AngularMaterialBootstrap
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+
+## Descripcion del proyecto
+
+Este proyecto utiliza angular CLI 10 y angular material 10.2.5 junto a bootstrap 4.5, combina lo mejor
+de ambos framework frontend de bootstrap solamente se utiliza su sistema de rejillas (Grid) y de angular
+material se utiliza todos sus componentes.
 
 ## Development server
 
